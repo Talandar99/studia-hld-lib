@@ -1,1 +1,1 @@
-# studia-hld-lib
+# Zbiór bibliotek linków
